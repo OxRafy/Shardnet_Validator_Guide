@@ -73,7 +73,7 @@ If you already have, follow these steps below :
       <img width="800" alt="Untitled" src="https://user-images.githubusercontent.com/73088644/181075187-0c117b9c-e954-401a-b5aa-860b1dc61fb2.png">
       
       
-After that you can access your VPS using `IPv4` that have you created with some app like [MobaXterm](https://mobaxterm.mobatek.net/download.html) or default app like CMD and PowerShell.
+After that you can access your VPS using `Public IP Address / IPv4` that have you created with some app like [MobaXterm](https://mobaxterm.mobatek.net/download.html) or default app like CMD and PowerShell.
 
 ## Challenge
 
