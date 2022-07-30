@@ -86,7 +86,7 @@ You can do this challenge until `August 11th` and fill `Chuck-Only Producer Onbo
 
 ### Ended on August 11, 2022
       
-| Challenges                                          |                                                                            |
+| Challenges                                          | Guide                                                                      |
 | --------------------------------------------------- | -------------------------------------------------------------------------- |
 | Challenge 001 - Setup NEAR-CLI                      | [Guide](https://github.com/OxRafy/stakewars/blob/main/challenges/C-001.md) |
 | Challenge 002 - Setup Wallet dan Run Validator      | [Guide](https://github.com/OxRafy/stakewars/blob/main/challenges/C-002.md) |
