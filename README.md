@@ -76,6 +76,13 @@ If you already have, follow these steps below :
 After that you can access your VPS using `Public IP Address / IPv4` that have you created with some app like [MobaXterm](https://mobaxterm.mobatek.net/download.html) or default app like CMD and PowerShell.
 
 ## Challenge 001 - 007
+      
+### Form Submission
+
+Form for Submission Challenges 5-7 [here](https://docs.google.com/forms/d/e/1FAIpQLScp9JEtpk1Fe2P9XMaS9Gl6kl9gcGVEp3A5vPdEgxkHx3ABjg/viewform).
+
+You can do this challenge until `August 11th` and fill `Chuck-Only Producer Onboarding Form` [here](https://nearprotocol1001.typeform.com/to/Z39N7cU9). For ID you can fill in your email
+
 
 ### Ended on August 11, 2022
 
@@ -90,8 +97,3 @@ After that you can access your VPS using `Public IP Address / IPv4` that have yo
 
 007. Create Data Science for Staking
 
-### Form Submission
-
-Form for Submission Challenges 5-7 [here](https://docs.google.com/forms/d/e/1FAIpQLScp9JEtpk1Fe2P9XMaS9Gl6kl9gcGVEp3A5vPdEgxkHx3ABjg/viewform).
-
-You can do this challenge until `August 11th` and fill `Chuck-Only Producer Onboarding Form` [here](https://nearprotocol1001.typeform.com/to/Z39N7cU9). For ID you can fill in your email
