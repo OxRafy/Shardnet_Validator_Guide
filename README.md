@@ -85,15 +85,19 @@ You can do this challenge until `August 11th` and fill `Chuck-Only Producer Onbo
 
 
 ### Ended on August 11, 2022
-
-* Challenge 001 - Setup NEAR-CLI [Guide](https://github.com/OxRafy/stakewars/blob/main/challenges/C-001.md)
-* Challenge 002 - Setup Wallet dan Run Validator [Guide](https://github.com/OxRafy/stakewars/blob/main/challenges/C-002.md)
-* Challenge 003 - Mounting Staking Pool [Guide](https://github.com/OxRafy/stakewars/blob/main/challenges/C-003.md)
-* Challenge 004 - Create Monitoring Node Status [Guide](https://github.com/OxRafy/stakewars/blob/main/challenges/C-004.md)
-* Challenge 005 - Create Stakewars Guide
-* Challenge 006 - Auto Ping with 2 hours interval [Guide](https://github.com/OxRafy/stakewars/blob/main/challenges/C-006.md)
+      
+| Challenges                                          |                                                                            |
+| --------------------------------------------------- | -------------------------------------------------------------------------- |
+| Challenge 001 - Setup NEAR-CLI                      | [Guide](https://github.com/OxRafy/stakewars/blob/main/challenges/C-001.md) |
+| Challenge 002 - Setup Wallet dan Run Validator      | [Guide](https://github.com/OxRafy/stakewars/blob/main/challenges/C-002.md) |
+| Challenge 003 - Mounting Staking Pool               | [Guide](https://github.com/OxRafy/stakewars/blob/main/challenges/C-003.md) |
+| Challenge 004 - Create Monitoring Node Status       | [Guide](https://github.com/OxRafy/stakewars/blob/main/challenges/C-004.md) |
+| Challenge 005 - Create Stakewars                    |                                                                            |
+| Challenge 006 - Auto Ping with 2 hours interval     | [Guide](https://github.com/OxRafy/stakewars/blob/main/challenges/C-006.md) |
 
 ### Ended on September 7, 2022
 
-* Challenge 007 - Create Data Science for Staking
+| Challenges                                          |
+| --------------------------------------------------- |
+| Challenge 007 - Create Data Science for Staking     |
 
