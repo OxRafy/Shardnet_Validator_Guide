@@ -77,20 +77,21 @@ After that you can access your VPS using `Public IP Address / IPv4` that have yo
 
 ## Challenge
 
+### Ended on August 11, 2022
 
-You can do this challenge until `August 11th` and fill `Chuck-Only Producer Onboarding Form` [here](https://nearprotocol1001.typeform.com/to/Z39N7cU9). For ID you can fill in your email
+1. Setup NEAR-CLI [Guide](https://github.com/OxRafy/stakewars/blob/main/challenges/C-001.md)
+2. Setup Wallet dan Run Validator [Guide](https://github.com/OxRafy/stakewars/blob/main/challenges/C-002.md)
+3. Mounting Staking Pool [Guide](https://github.com/OxRafy/stakewars/blob/main/challenges/C-003.md) 
+4. Create Monitoring Node Status [Guide](https://github.com/OxRafy/stakewars/blob/main/challenges/C-004.md)
+5. Create Stakewars Guide
+6. Create Auto Ping with 2 hours interval[Guide](https://github.com/OxRafy/stakewars/blob/main/challenges/C-006.md) 
 
+### Ended on September 7, 2022
 
-| Challenges | Description                            |   Started     |       Ended     | Link                                                              |
-| ---------- | -------------------------------------  | ------------- | --------------- | ----------------------------------------------------------------- |
-| 001        | Setup NEAR-CLI                         | July 13, 2022 |  August 11, 2022  |[Guide](https://github.com/OxRafy/stakewars/blob/main/challenges/C-001.md) |
-| 002        | Setup Wallet dan Run Validator         | July 13, 2022 |  August 11, 2022  |[Guide](https://github.com/OxRafy/stakewars/blob/main/challenges/C-002.md) |
-| 003        | Mounting Staking Pool                  | July 13, 2022 | August 11, 2022   |[Guide](https://github.com/OxRafy/stakewars/blob/main/challenges/C-003.md) |
-| 004        | Create Monitoring Node Status          | July 13, 2022 |  August 11, 2022  |[Guide](https://github.com/OxRafy/stakewars/blob/main/challenges/C-004.md) |
-| 005        | Create Stakewars Guide                 | July 15, 2022 |  August 11, 2022  |-                                                                |
-| 006        | Create Auto Ping with 2 hours interval | July 19, 2022 |  August 11, 2022  |[Guide](https://github.com/OxRafy/stakewars/blob/main/challenges/C-006.md) |
-| 007        | Create Data Science for Staking        | July 22, 2022 | September 7, 2022 |-                                                                |
+7. Create Data Science for Staking
 
+### Form Submission
 
 Form for Submission Challenges 5-7 [here](https://docs.google.com/forms/d/e/1FAIpQLScp9JEtpk1Fe2P9XMaS9Gl6kl9gcGVEp3A5vPdEgxkHx3ABjg/viewform).
 
+You can do this challenge until `August 11th` and fill `Chuck-Only Producer Onboarding Form` [here](https://nearprotocol1001.typeform.com/to/Z39N7cU9). For ID you can fill in your email
