@@ -75,7 +75,7 @@ If you already have, follow these steps below :
       
 After that you can access your VPS using `Public IP Address / IPv4` that have you created with some app like [MobaXterm](https://mobaxterm.mobatek.net/download.html) or default app like CMD and PowerShell.
 
-## Challenge 001 - 007
+## Challenge
       
 ### Form Submission
 
@@ -86,14 +86,14 @@ You can do this challenge until `August 11th` and fill `Chuck-Only Producer Onbo
 
 ### Ended on August 11, 2022
 
-Challenge 001. Setup NEAR-CLI [Guide](https://github.com/OxRafy/stakewars/blob/main/challenges/C-001.md)
-Challenge 002. Setup Wallet dan Run Validator [Guide](https://github.com/OxRafy/stakewars/blob/main/challenges/C-002.md)
-Challenge 003. Mounting Staking Pool [Guide](https://github.com/OxRafy/stakewars/blob/main/challenges/C-003.md) 
-Challenge 004. Create Monitoring Node Status [Guide](https://github.com/OxRafy/stakewars/blob/main/challenges/C-004.md)
-Challenge 005. Create Stakewars Guide
-Challenge 006. Create Auto Ping with 2 hours interval[Guide](https://github.com/OxRafy/stakewars/blob/main/challenges/C-006.md) 
+1. Setup NEAR-CLI [Guide](https://github.com/OxRafy/stakewars/blob/main/challenges/C-001.md) - Challenge 001
+2. Setup Wallet dan Run Validator [Guide](https://github.com/OxRafy/stakewars/blob/main/challenges/C-002.md) - Challenge 002
+3. Mounting Staking Pool [Guide](https://github.com/OxRafy/stakewars/blob/main/challenges/C-003.md) - Challenge 003
+4. Create Monitoring Node Status [Guide](https://github.com/OxRafy/stakewars/blob/main/challenges/C-004.md) - Challenge 004
+5. Create Stakewars Guide - Challenge 005
+6. Create Auto Ping with 2 hours interval[Guide](https://github.com/OxRafy/stakewars/blob/main/challenges/C-006.md) - Challenge 006
 
 ### Ended on September 7, 2022
 
-Challenge 007. Create Data Science for Staking
+7. Create Data Science for Staking - Challenge 007
 
