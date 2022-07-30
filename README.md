@@ -75,7 +75,7 @@ If you already have, follow these steps below :
       
 After that you can access your VPS using `Public IP Address / IPv4` that have you created with some app like [MobaXterm](https://mobaxterm.mobatek.net/download.html) or default app like CMD and PowerShell.
 
-## Challenge
+## Challenges 1 - 7
       
 ### Form Submission
 
@@ -86,7 +86,7 @@ You can do this challenge until `August 11th` and fill `Chuck-Only Producer Onbo
 
 ### Ended on August 11, 2022
       
-| Challenges                                          | Guide                                                                      |
+| Challenges                                          |                                                                            |
 | --------------------------------------------------- | -------------------------------------------------------------------------- |
 | Challenge 001 - Setup NEAR-CLI                      | [Guide](https://github.com/OxRafy/stakewars/blob/main/challenges/C-001.md) |
 | Challenge 002 - Setup Wallet dan Run Validator      | [Guide](https://github.com/OxRafy/stakewars/blob/main/challenges/C-002.md) |
